@@ -1,4 +1,4 @@
-# Web-based-Crop-Guidance
+# Web Based Crop Guidance
 1.Collected the soil and weather data set of Kanchipuram district and developed a Machine Learning program to predict the suitable crop based on the geographical location of the farmer.
 
 2.Pesticide suggestion based on the crop suggested.
